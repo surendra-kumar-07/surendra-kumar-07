@@ -1,6 +1,6 @@
 # 👋 Hi, I'm  Somisetty Venkata Surendra Kumar
 
-### 🚀 Aspiring Cloud && DevOps Engineer Intern | ☁️ AWS | 🔄 CI/CD | 🐳 Docker | 🐧 Linux
+### 🚀 Aspiring Cloud & DevOps Engineer Intern | ☁️ AWS | 🔄 CI/CD | 🐳 Docker | 🐧 Linux
 
 I'm a **Computer Science graduate** with hands-on experience in **DevOps, CI/CD automation, Docker, AWS, Linux, and cloud infrastructure**.
 
@@ -31,7 +31,7 @@ Currently working as a **DevOps Engineer Intern at Q Spiders**, where I work wit
   <img src="https://skillicons.dev/icons?i=aws,azure" height="55"/>
 </p>
 
-**AWS:** EC2 • VPC • S3 • EBS • RDS • IAM • Lambda • ELB • Auto Scaling • Route 53 • CloudFront
+ **AWS:** EC2 • VPC • S3 • EBS • EFS • RDS • IAM • Lambda • ELB • ALB • NLB • Auto Scaling • Route 53 • CloudFront • CloudWatch • CloudTrail • SNS • SQS • API Gateway • CloudFormation • AWS CLI • CloudShell •
 
 ---
 
