@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Surendra Kumar
+# 👋 Hi, I'm  Somisetty Venkata Surendra Kumar
 
-### 🚀 DevOps Engineer Intern | ☁️ AWS | 🔄 CI/CD | 🐳 Docker | 🐧 Linux
+### 🚀 Aspiring Cloud && DevOps Engineer Intern | ☁️ AWS | 🔄 CI/CD | 🐳 Docker | 🐧 Linux
 
 I'm a **Computer Science graduate** with hands-on experience in **DevOps, CI/CD automation, Docker, AWS, Linux, and cloud infrastructure**.
 
