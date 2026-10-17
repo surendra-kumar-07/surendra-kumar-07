@@ -1,30 +1,18 @@
 <div align="center">
 
-# 👋 Hey, I'm Somisetty Venkata Surendra Kumar!
+# 👋 Hi, I'm Somisetty Venkata Surendra Kumar
 
 ### 🚀 Cloud & DevOps Engineer | AWS | CI/CD | Docker | Kubernetes
 
 **Building • Automating • Deploying • Monitoring**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=surendra-kumar-07&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=surendra-kumar-07&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
-<a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/surendra-kumar-07">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:surendrasomisetty18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Portfolio+%F0%9F%91%8B;DevOps+Engineer+Intern+%40+Q+Spiders;AWS+%7C+Jenkins+%7C+Docker+%7C+Kubernetes;Building+Automated+CI%2FCD+Pipelines;Turning+Code+Into+Cloud+Solutions+%F0%9F%9A%80" alt="Typing Animation"/>
+<a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/surendra-kumar-07"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="mailto:surendrasomisetty18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=DevOps+Engineer+Intern+%40+Q+Spiders;AWS+%7C+Jenkins+%7C+Docker+%7C+Kubernetes;Building+Automated+CI%2FCD+Pipelines;Turning+Code+Into+Cloud+Solutions" alt="Typing Animation"/>
 
 **Automating software delivery and building reliable cloud solutions.**
 
@@ -32,66 +20,53 @@
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-Hi! I'm **Somisetty Venkata Surendra Kumar**, a Computer Science graduate and **DevOps Engineer Intern at Q Spiders**, passionate about cloud infrastructure, automation, and modern software delivery.
+Hi! I'm **Somisetty Venkata Surendra Kumar**, a Computer Science and Engineering graduate and DevOps Engineer Intern at Q Spiders. I'm passionate about cloud computing, automation, Linux administration, and modern software delivery.
 
-I enjoy building practical projects that bring together AWS, CI/CD pipelines, containerization, Linux administration, and monitoring. My goal is to make application deployments more consistent, repeatable, and efficient through automation.
+I enjoy building hands-on projects that combine AWS infrastructure, CI/CD pipelines, Docker containers, and monitoring tools.
 
-* 🔭 **Current Role:** DevOps Engineer Intern at Q Spiders
-* ☁️ **Cloud Platform:** Amazon Web Services (AWS)
-* ⚙️ **CI/CD Tools:** Jenkins, Maven, SonarQube, Nexus
-* 🐳 **Containerization:** Docker and Docker Hub
+* 💼 **Role:** DevOps Engineer Intern at Q Spiders
+* ☁️ **Cloud:** Amazon Web Services (AWS)
+* ⚙️ **CI/CD:** Jenkins, Maven, SonarQube, Nexus
+* 🐳 **Containers:** Docker, Docker Hub
 * ☸️ **Orchestration:** Kubernetes
 * 🐧 **Operating System:** Linux
 * 📜 **Scripting:** Bash / Shell Scripting
-* 📊 **Monitoring:** Amazon CloudWatch and Amazon SNS
-* 🏗️ **Infrastructure as Code:** Developing skills in Terraform and Ansible
-* 🎯 **Career Interests:** Cloud Engineering, DevOps Engineering, and Platform Engineering
-* 📫 **Email:** [surendrasomisetty18@gmail.com](mailto:surendrasomisetty18@gmail.com)
+* 📊 **Monitoring:** Amazon CloudWatch and SNS
+* 🏗️ **Infrastructure as Code:** Learning Terraform and Ansible
+* 🏆 **Achievement:** Best Paper Award at ICICC 2026
+* 🎯 **Career Interests:** Cloud Engineering, DevOps Engineering, Platform Engineering
 
-> 💡 My philosophy: Automate repetitive tasks, continuously improve deployments, and build reliable cloud infrastructure.
+📫 **Email:** [surendrasomisetty18@gmail.com](mailto:surendrasomisetty18@gmail.com)
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-## ☁️ Cloud Computing — AWS
+### ☁️ Cloud Computing — AWS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
-</p>
-
-**AWS Services**
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
 
 `EC2` `VPC` `S3` `EBS` `EFS` `RDS` `IAM` `Lambda` `ELB` `ALB` `NLB` `Auto Scaling` `Route 53` `CloudFront` `CloudWatch` `CloudTrail` `SNS` `SQS` `API Gateway` `CloudFormation` `AWS CLI` `CloudShell`
 
-## ⚙️ CI/CD & Version Control
+### ⚙️ CI/CD & Version Control
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins,maven" alt="CI/CD Tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,maven" alt="CI/CD Tools"/>
 
 `Git` `GitHub` `Jenkins` `Maven` `SonarQube` `Nexus Repository`
 
-**Key Concepts**
-
-* Continuous Integration and Continuous Delivery
 * GitHub Webhooks and automated build triggers
 * Jenkins pipeline automation
-* Code quality analysis and quality gates
-* Build and artifact management
-* Automated application deployment
+* Maven build, test, and packaging
+* SonarQube code quality analysis
+* Nexus artifact management
 
-## 🐳 Containers & Orchestration
+### 🐳 Containers & Orchestration
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker and Kubernetes"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker and Kubernetes"/>
 
 `Docker` `Docker Hub` `Kubernetes`
-
-**Key Concepts**
 
 * Dockerfiles and image creation
 * Image tagging and version management
@@ -99,322 +74,220 @@ I enjoy building practical projects that bring together AWS, CI/CD pipelines, co
 * Docker volumes and container lifecycle
 * Kubernetes Pods, Deployments, and Services
 
-## 🏗️ Infrastructure as Code & Automation
+### 🏗️ Infrastructure as Code & Automation
 
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,bash" alt="Automation Tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,bash" alt="Automation Tools"/>
 
 `Terraform` `Ansible` `Bash` `Shell Scripting`
 
-## 🐧 Linux & Networking
+### 🐧 Linux & Networking
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash"/>
-</p>
+<img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash"/>
 
-**Linux:** File permissions, users and groups, processes, filesystems, package management, system administration, and troubleshooting.
+**Linux:** File permissions, users and groups, processes, filesystems, package management, and troubleshooting.
 
 **Networking:** TCP/IP, DNS, HTTP/HTTPS, public and private IP addresses, subnetting, CIDR, NAT, and load balancing.
 
-## 📊 Monitoring & Observability
+### 📊 Monitoring & Observability
 
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" alt="Monitoring Tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" alt="Monitoring Tools"/>
 
 `Amazon CloudWatch` `Amazon SNS` `Grafana` `Prometheus`
 
 ---
 
-# 🚀 End-to-End DevOps Pipeline
+## 🚀 End-to-End DevOps CI/CD Pipeline
+
+<div align="center">
 
 ### From Developer Commit to Cloud Deployment
 
-A CI/CD pipeline automates the software delivery lifecycle, from source code management to application deployment and monitoring.
-
-<div align="center">
+</div>
 
 ```text
              👨‍💻 DEVELOPER
                    |
-                   ▼
+                   v
              📝 GIT & GITHUB
-           Source Code Management
                    |
-                   ▼
+                   v
             🔔 GITHUB WEBHOOK
-           Automatic Build Trigger
                    |
-                   ▼
+                   v
                ⚙️ JENKINS
-            CI/CD Orchestration
                    |
-                   ▼
-               🏗️ MAVEN
-             Build & Test
+                   v
+                🏗️ MAVEN
+             Build and Test
                    |
-                   ▼
+                   v
              🔍 SONARQUBE
-            Code Quality Gate
+             Code Quality
                    |
-                   ▼
+                   v
                 📦 NEXUS
              Artifact Storage
                    |
-                   ▼
+                   v
                 🐳 DOCKER
-           Build Container Image
+             Build Image
                    |
-                   ▼
+                   v
               🐳 DOCKER HUB
-             Image Repository
+             Image Registry
                    |
-                   ▼
+                   v
                 ☁️ AWS EC2
-           Deploy Containerized App
+             Deploy Container
                    |
-                   ▼
+                   v
             🌐 LIVE APPLICATION
                    |
-                   ▼
+                   v
           📊 CLOUDWATCH + SNS
             Monitoring & Alerts
 ```
 
-</div>
-
 ### 🔄 Pipeline Stages
 
-| Stage | Technology       | Responsibility                                  |
-| ----- | ---------------- | ----------------------------------------------- |
-| 01    | Git & GitHub     | Manage source code and version history          |
-| 02    | GitHub Webhooks  | Notify Jenkins when code changes                |
-| 03    | Jenkins          | Orchestrate the CI/CD workflow                  |
-| 04    | Maven            | Build, test, and package Java applications      |
-| 05    | SonarQube        | Analyze code quality and evaluate quality gates |
-| 06    | Nexus            | Store and manage build artifacts                |
-| 07    | Docker           | Package applications into container images      |
-| 08    | Docker Hub       | Store and distribute container images           |
-| 09    | AWS EC2          | Run the containerized application               |
-| 10    | CloudWatch & SNS | Monitor configured metrics and deliver alerts   |
+| Stage | Tool             | Purpose                                    |
+| ----- | ---------------- | ------------------------------------------ |
+| 1     | Git & GitHub     | Source code management                     |
+| 2     | GitHub Webhooks  | Trigger automated builds                   |
+| 3     | Jenkins          | Orchestrate the pipeline                   |
+| 4     | Maven            | Build, test, and package Java applications |
+| 5     | SonarQube        | Analyze code quality and quality gates     |
+| 6     | Nexus            | Store and manage build artifacts           |
+| 7     | Docker           | Package applications into container images |
+| 8     | Docker Hub       | Store and distribute container images      |
+| 9     | AWS EC2          | Host containerized applications            |
+| 10    | CloudWatch & SNS | Monitor configured metrics and send alerts |
 
-### 🎯 Pipeline Objectives
+**Pipeline objectives:**
 
-* Reduce repetitive manual deployment steps.
-* Improve consistency across application releases.
-* Identify code quality issues before deployment.
-* Standardize application packaging using Docker.
-* Improve visibility into monitored infrastructure and applications.
+* Reduce repetitive manual deployment tasks.
+* Improve consistency between application releases.
+* Detect code quality issues before deployment.
+* Standardize application packaging with Docker.
+* Improve monitoring and operational visibility.
 
-*Note: This diagram represents the overall pipeline architecture. Individual stages require appropriate configuration and integration. Nexus artifact storage and Docker Hub image publishing are separate operations.*
+*This diagram represents the intended architecture. Each stage requires its own configuration and integration.*
 
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
-## 🚀 01. Automated CI/CD Pipeline for a Java Web Application
+### 🚀 1. Automated CI/CD Pipeline for a Java Web Application
 
-### From a GitHub Commit to an Automated Deployment
+<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/Maven-Build-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/> <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/> <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Maven-Build-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-</p>
+**Overview**
 
-### 💡 Project Overview
+A CI/CD project focused on automating the delivery lifecycle of a Java web application using Jenkins and DevOps tools.
 
-Manual application deployments can be repetitive and inconsistent. This project focuses on automating the application delivery lifecycle through a Jenkins-based CI/CD pipeline.
+**Key Features**
 
-### ⚡ Key Features
+* GitHub webhook integration for build triggers.
+* Automated Maven builds and tests.
+* SonarQube code analysis and quality gates.
+* Nexus artifact storage and management.
+* Docker image creation and containerization.
+* Deployment of the containerized application to AWS EC2.
 
-* 🔗 **Automated Triggers:** GitHub webhooks notify Jenkins about code changes.
-* 🏗️ **Build Automation:** Maven builds, tests, and packages the Java application.
-* 🔍 **Code Quality:** SonarQube analyzes code and evaluates configured quality gates.
-* 📦 **Artifact Management:** Nexus stores and manages build artifacts.
-* 🐳 **Containerization:** Docker packages the application into an image.
-* ☁️ **Cloud Deployment:** AWS EC2 hosts the containerized application.
-* 🔄 **Repeatable Releases:** Pipeline automation standardizes deployment steps.
-
-### 🔄 Architecture
+**Workflow**
 
 `GitHub → Jenkins → Maven → SonarQube → Nexus → Docker → AWS EC2`
 
-### 🎯 Skills Demonstrated
+**Skills Demonstrated:** CI/CD, Jenkins pipelines, Maven, code quality, artifact management, Docker, and AWS.
 
-CI/CD automation, Jenkins pipelines, Maven builds, code quality analysis, artifact management, Docker, and AWS deployment.
-
-🔗 **Explore:** [My GitHub Repositories](https://github.com/surendra-kumar-07?tab=repositories)
+<a href="https://github.com/surendra-kumar-07?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/></a>
 
 ---
 
-## ☁️ 02. AWS Smart Monitoring & Alert Notification System
+### ☁️ 2. AWS Smart Monitoring & Alert Notification System
 
-### Turning Cloud Monitoring Data Into Actionable Alerts
+<img src="https://img.shields.io/badge/AWS-S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/> <img src="https://img.shields.io/badge/Amazon-CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudWatch"/> <img src="https://img.shields.io/badge/Amazon-SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="SNS"/>
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
-  <img src="https://img.shields.io/badge/Amazon-CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon CloudWatch"/>
-  <img src="https://img.shields.io/badge/Amazon-SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon SNS"/>
-</p>
+**Overview**
 
-### 💡 Project Overview
+An AWS monitoring project demonstrating how configured cloud metrics, alarms, and notifications can help identify relevant events and conditions.
 
-Manually monitoring cloud resources can make it difficult to identify relevant events quickly. This project demonstrates an AWS monitoring and notification workflow using Amazon S3, CloudWatch, and SNS.
+**Key Features**
 
-### ⚡ Key Features
+* Amazon S3 as an object storage and event source.
+* CloudWatch monitoring for applicable metrics.
+* Alarm thresholds and alert conditions.
+* Amazon SNS notification integration.
+* Improved visibility into monitored cloud resources.
 
-* 🪣 Uses Amazon S3 for object storage and relevant event sources.
-* 📊 Configures CloudWatch monitoring for applicable metrics.
-* 🚨 Sets up alarms using defined thresholds.
-* 🔔 Integrates Amazon SNS for notification delivery.
-* 🔎 Improves visibility into monitored events and conditions.
-
-### 🔄 Monitoring Workflow
+**Workflow**
 
 ```text
-          AWS S3
-             |
-             ▼
-     CloudWatch Metrics
-             |
-             ▼
-      CloudWatch Alarm
-             |
-             ▼
-          Amazon SNS
-             |
-             ▼
-      Alert Notification
+AWS S3 → CloudWatch → CloudWatch Alarm → Amazon SNS → Notification
 ```
 
-### 🎯 Skills Demonstrated
+**Skills Demonstrated:** AWS S3, CloudWatch, SNS, monitoring, and cloud operations.
 
-AWS services, monitoring configuration, CloudWatch alarms, SNS integration, and cloud operations.
-
-🔗 **Explore:** [My GitHub Repositories](https://github.com/surendra-kumar-07?tab=repositories)
+<a href="https://github.com/surendra-kumar-07?tab=repositories"><img src="https://img.shields.io/badge/Explore-AWS%20Projects-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Projects"/></a>
 
 ---
 
-## 🐳 03. Dockerized Web Application on AWS EC2
+### 🐳 3. Dockerized Web Application on AWS EC2
 
-### Package Once. Deploy Consistently. Run in the Cloud.
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Docker_Hub-Image%20Registry-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker Hub"/> <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EC2"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker_Hub-Image%20Registry-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker Hub"/>
-  <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EC2"/>
-  <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+**Overview**
 
-### 💡 Project Overview
+A web application deployment project using Docker containers and AWS EC2.
 
-This project demonstrates how to package a web application into a Docker image, publish it to Docker Hub, and deploy it on an AWS EC2 instance.
+**Key Features**
 
-### ⚡ Key Features
+* Build Docker images from application source code.
+* Tag and publish images to Docker Hub.
+* Pull container images onto an EC2 instance.
+* Configure container ports and networking.
+* Run and access the deployed application.
+* Configure AWS security groups to control inbound traffic.
 
-* 🐳 Builds Docker images for the web application.
-* 📦 Tags and publishes images to Docker Hub.
-* 🔄 Pulls application images onto an EC2 instance.
-* 🌐 Configures container ports and networking.
-* ☁️ Deploys and runs the containerized application on AWS.
-* 🔐 Uses security group rules to control permitted inbound access.
+**Workflow**
 
-### 🔄 Deployment Flow
+`Application Code → Docker Build → Docker Hub → AWS EC2 → Running Container`
 
-```text
-       Application Code
-              |
-              ▼
-         Docker Build
-              |
-              ▼
-         Docker Image
-              |
-              ▼
-          Docker Hub
-              |
-              ▼
-           AWS EC2
-              |
-              ▼
-         Run Container
-              |
-              ▼
-      Access Application
-```
+**Skills Demonstrated:** Docker, Docker Hub, Linux, EC2, networking, and deployment.
 
-### 🎯 Skills Demonstrated
-
-Docker image management, container networking, Linux administration, AWS EC2, and application deployment.
-
-🔗 **[View Docker Web Application Repository](https://github.com/surendra-kumar-07/Docker-web-app)**
+<a href="https://github.com/surendra-kumar-07/Docker-web-app"><img src="https://img.shields.io/badge/View_Project-Docker%20Web%20App-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Web App Repository"/></a>
 
 ---
 
-## 🖥️ 04. Linux Health Check Dashboard
+### 🖥️ 4. Linux Health Check Dashboard
 
-### Making Linux System Health Easier to Inspect
+<img src="https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Bash-Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Bash-Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-</p>
+**Overview**
 
-### 💡 Project Overview
+A Linux-focused project for inspecting system health information and practicing shell-based administration.
 
-Linux administrators frequently inspect system resources and operating system information when troubleshooting operational issues. This project focuses on displaying useful system health information and practicing shell-based administration.
+**Key Features**
 
-### ⚡ Key Features
+* Display relevant system information.
+* Inspect configured system resource metrics.
+* Review disk and memory usage.
+* Practice automating repetitive checks.
+* Support Linux troubleshooting workflows.
 
-* 🖥️ Displays relevant Linux system information.
-* 📊 Supports inspection of configured system resource metrics.
-* 💽 Helps review disk and memory usage.
-* ⚙️ Uses shell scripting to automate repetitive checks.
-* 🔎 Supports practical Linux troubleshooting.
+**Skills Demonstrated:** Linux administration, shell scripting, and system troubleshooting.
 
-### 🎯 Skills Demonstrated
-
-Linux administration, Bash scripting, system health checks, and troubleshooting.
-
-🔗 **[View Linux Health Check Dashboard](https://github.com/surendra-kumar-07/linux_health_check_dashboard)**
+<a href="https://github.com/surendra-kumar-07/linux_health_check_dashboard"><img src="https://img.shields.io/badge/View_Project-Linux%20Health%20Dashboard-2EA44F?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Health Dashboard Repository"/></a>
 
 ---
 
-## 📂 Explore More Projects
+## 🏆 Achievements & Recognition
 
 <div align="center">
-
-<a href="https://github.com/surendra-kumar-07?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
-</a>
-
-</div>
-
----
-
-# 🎓 Education
-
-### Bachelor of Technology — Computer Science and Engineering
-
-**Siddharth Institute of Engineering and Technology**
-
-* 🎓 **Graduation:** 2026
-* 📊 **CGPA:** 8.2 / 10
-* 📚 **Specialization:** Cybersecurity, Internet of Things (IoT), and Blockchain Technology
-
----
-
-# 🏆 Achievements & Recognition
-
-<div align="center">
-
-## 🥇 Best Paper Award — ICICC 2026
 
 <img src="https://img.shields.io/badge/ACHIEVEMENT-BEST%20PAPER%20AWARD-gold?style=for-the-badge&logo=medal&logoColor=white" alt="Best Paper Award"/>
+
+# 🥇 Best Paper Award — ICICC 2026
 
 </div>
 
@@ -422,27 +295,37 @@ Linux administration, Bash scripting, system health checks, and troubleshooting.
 
 **HealthGuard: A Collaborative Machine Learning Approach to Secure Medical Information Across IoT-Driven Healthcare Systems**
 
-**Recognition:** Best Paper Award at ICICC-2026
+* 🏆 **Achievement:** Best Paper Award at ICICC-2026.
+* 📖 **Publisher:** Springer Nature.
+* 📚 **Proceedings:** *Innovative Computing and Communications*, ICICC 2026.
+* 📄 **Chapter Pages:** 444–454.
+* 🔬 **Research Area:** Machine learning, IoT security, and healthcare information protection.
 
-**Research Focus:** Securing medical information in IoT-enabled healthcare systems using collaborative machine learning.
-
-**Highlights**
-
-* 🏆 Received the Best Paper Award at ICICC-2026.
-* 🔬 Explored security challenges in IoT-driven healthcare environments.
-* 📖 Published research through Springer.
-
----
-
-# 📜 Certifications & Professional Learning
+### 🔗 Read the Published Research Paper
 
 <div align="center">
 
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-30008-9_35">
+  <img src="https://img.shields.io/badge/READ%20RESEARCH%20PAPER-Springer%20Nature-008A45?style=for-the-badge&logo=springer&logoColor=white" alt="Read HealthGuard Research Paper on Springer"/>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.1007/978-3-032-30008-9_35">
+  <img src="https://img.shields.io/badge/DOI-10.1007%2F978--3--032--30008--9__35-blue?style=flat-square" alt="Research Paper DOI"/>
+</a>
+
+</div>
+
+---
+
+## 📜 Certifications & Professional Learning
+
 ### ☁️ AWS Certified Cloud Practitioner
 
-<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-IN%20PROGRESS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner — In Progress"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-IN%20PROGRESS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner In Progress"/>
 
-Building foundational knowledge of AWS cloud services, cloud security, architecture, pricing, and support.
+Preparing to strengthen foundational knowledge of AWS cloud services, cloud security, architecture, pricing, and support.
 
 ### 💻 SQL (Basic) — HackerRank
 
@@ -456,13 +339,23 @@ Fundamentals of SQL queries, filtering, sorting, and data retrieval.
 
 Operating system concepts, process management, memory management, and system fundamentals.
 
-</div>
-
-**Credential verification:** Add your official certificate links or credential IDs when available. Keep completed courses marked as completed only if you have finished them.
+*Add official certificate or credential URLs to the relevant entries when available. Keep the status accurate for each course or certification.*
 
 ---
 
-# 📊 GitHub Statistics
+## 🎓 Education
+
+### Bachelor of Technology — Computer Science and Engineering
+
+**Siddharth Institute of Engineering and Technology**
+
+* 🎓 **Graduation Year:** 2026
+* 📊 **CGPA:** 8.2 / 10
+* 📚 **Specialization:** Cybersecurity, Internet of Things (IoT), and Blockchain Technology
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -478,73 +371,75 @@ Operating system concepts, process management, memory management, and system fun
 
 ---
 
-# 📚 My DevOps Learning Journey
+## 📚 My DevOps Learning Journey
 
 ```text
 🐧 Linux & Networking
           |
-          ▼
+          v
      Git & GitHub
           |
-          ▼
+          v
         Maven
           |
-          ▼
+          v
   Jenkins & CI/CD
           |
-          ▼
+          v
   SonarQube & Nexus
           |
-          ▼
+          v
     Docker & Hub
           |
-          ▼
+          v
       AWS Cloud
           |
-          ▼
+          v
 Monitoring & Alerting
           |
-          ▼
+          v
       Kubernetes
           |
-          ▼
+          v
   Terraform & Ansible
           |
-          ▼
+          v
  Cloud & DevOps Engineering 🚀
 ```
 
 ---
 
-# 🎯 What's Next?
+## 🎯 What's Next?
 
-I'm continuously strengthening my technical skills and working toward building reliable, secure, and repeatable cloud deployment workflows.
+I'm continuously strengthening my technical skills and building practical cloud and DevOps projects.
 
 * ☸️ **Kubernetes:** Deployments, Services, scaling, and application recovery.
-* 🏗️ **Terraform:** AWS infrastructure provisioning using Infrastructure as Code.
+* 🏗️ **Terraform:** AWS infrastructure provisioning with Infrastructure as Code.
 * 🔧 **Ansible:** Server configuration and automation.
 * 📈 **Prometheus & Grafana:** Metrics collection and visualization.
-* 🔐 **DevSecOps:** Integrating security checks into CI/CD pipelines.
+* 🔐 **DevSecOps:** Integrating security checks into CI/CD workflows.
 
 ---
 
-# 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 I'm interested in opportunities involving **Cloud Engineering, DevOps Engineering, AWS, and Platform Engineering**.
 
-If you're passionate about cloud infrastructure, automation, or modern software delivery, let's connect!
-
-<p>
-  📧 <b>Email:</b> <a href="mailto:surendrasomisetty18@gmail.com">surendrasomisetty18@gmail.com</a>
-  <br/><br/>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/">Connect with me</a>
-  <br/><br/>
-  🐙 <b>GitHub:</b> <a href="https://github.com/surendra-kumar-07">Explore my repositories</a>
-</p>
-
----
-
 <div align="center">
+
+<a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="https://github.com/surendra-kumar-07">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+</a>
+
+<a href="mailto:surendrasomisetty18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by Email"/>
+</a>
+
+<br/><br/>
 
 ### 🚀 Keep Learning. Keep Building. Keep Automating.
 
