@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Somisetty Venkata Surendra Kumar
 
-### 🚀 Cloud & DevOps Engineer | AWS | CI/CD | Docker | Kubernetes
+### 🚀 Aspiring Cloud & DevOps Engineer | AWS | CI/CD | Docker | Kubernetes
 
 **Building • Automating • Deploying • Monitoring**
 
