@@ -1,6 +1,6 @@
 <div align="center">
 
-# `~/surendra-kumar`
+# `Somisetty Venkata Surendra Kumar`
 
 **Cloud & DevOps engineer in the making — I turn manual deployments into pipelines.**
 
