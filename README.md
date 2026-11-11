@@ -1,7 +1,4 @@
-
-
-div align="center">
-
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&height=65&lines=SOMISETTY+VENKATA+SURENDRA+KUMAR;AWS+CLOUD+%26+DEVOPS+ENGINEER;AUTOMATING+THE+FUTURE+WITH+CLOUD" alt="Name"/>
 
 <h3>☁️ AWS CLOUD ENGINEER &nbsp; | &nbsp; ⚙️ DEVOPS ENGINEER</h3>
