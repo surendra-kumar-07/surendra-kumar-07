@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Surendra%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descSize=22&descAlignY=60" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Somisetty%20Venkata%20Surendra%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descSize=22&descAlignY=62" alt="Somisetty Venkata Surendra Kumar - Cloud and DevOps Engineer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Automating+software+delivery+end+to+end;Building+observable+cloud+infrastructure+on+AWS;Best+Paper+Award+%7C+ICICC+2026+%28Springer%29" alt="Tagline"/>
 
