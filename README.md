@@ -36,8 +36,8 @@ Computer Science graduate and DevOps Engineer Intern with hands-on experience de
 
 | # | Project | Domain | Stack | Link |
 | --- | --- | --- | --- | --- |
-| 1 | Automated CI/CD Pipeline for a Java Web App | CI/CD | Jenkins, Maven, SonarQube, Nexus, Docker, EC2 | [Repositories](https://github.com/surendra-kumar-07?tab=repositories) |
-| 2 | AWS Smart Monitoring & Alert System | Cloud Ops | S3, CloudWatch, SNS | [web-app](https://github.com/surendra-kumar-07/web-app) |
+| 1 | Automated CI/CD Pipeline for a Java Web App | CI/CD | Jenkins, Maven, SonarQube, Nexus, Docker, EC2 | [web-app](https://github.com/surendra-kumar-07/web-app) |
+| 2 | AWS Smart Monitoring & Alert System | Cloud Ops | S3, CloudWatch, SNS |  
 | 3 | Dockerized Web App on AWS EC2 | Containers | Docker, Docker Hub, EC2, Linux | [Docker-web-app](https://github.com/surendra-kumar-07/Docker-web-app) |
 | 4 | Linux Health Check Dashboard | Linux / Automation | Bash, Linux | [linux_health_check_dashboard](https://github.com/surendra-kumar-07/linux_health_check_dashboard) |
 | 5 | HealthGuard (Best Paper, ICICC 2026) | Research / Security | Machine Learning, IoT | [Springer](https://link.springer.com/chapter/10.1007/978-3-032-30008-9_35) |
