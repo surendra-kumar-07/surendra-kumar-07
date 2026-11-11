@@ -1,8 +1,8 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&height=65&lines=SOMISETTY+VENKATA+SURENDRA+KUMAR;CLOUD+%26+DEVOPS+ENGINEER;BUILDING+THE+FUTURE+WITH+CLOUD+%26+AUTOMATION" alt="Surendra Kumar"/>
 
-<h2>⚡ S U R E N D R A &nbsp; K U M A R ⚡</h2>
+div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&height=65&lines=SOMISETTY+VENKATA+SURENDRA+KUMAR;AWS+CLOUD+%26+DEVOPS+ENGINEER;AUTOMATING+THE+FUTURE+WITH+CLOUD" alt="Name"/>
 
 <h3>☁️ AWS CLOUD ENGINEER &nbsp; | &nbsp; ⚙️ DEVOPS ENGINEER</h3>
 
