@@ -1,19 +1,18 @@
 <div align="center">
 
-<h1>
-  <span style="color:#38BDF8;">✦ SOMISETTY</span>
-  <span style="color:#FFFFFF;"> VENKATA</span>
-  <br/>
-  <span style="color:#38BDF8;">SURENDRA KUMAR</span>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&height=65&lines=SOMISETTY+VENKATA+SURENDRA+KUMAR;CLOUD+%26+DEVOPS+ENGINEER;BUILDING+THE+FUTURE+WITH+CLOUD+%26+AUTOMATION" alt="Surendra Kumar"/>
 
-<h3>☁️ AWS Cloud Engineer | ⚙️ DevOps Engineer | 🚀 Automation Enthusiast</h3>
+<h2>⚡ S U R E N D R A &nbsp; K U M A R ⚡</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Automating+Software+Delivery+End-to-End;Building+Observable+Cloud+Infrastructure+on+AWS;Best+Paper+Award+%7C+ICICC+2026+%28Springer%29" alt="Tagline"/>
+<h3>☁️ AWS CLOUD ENGINEER &nbsp; | &nbsp; ⚙️ DEVOPS ENGINEER</h3>
 
-<br/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-Automation-38BDF8?style=for-the-badge&logo=devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/ICICC%202026-Best%20Paper%20Award-8B5CF6?style=for-the-badge"/>
 
-<img src="https://raw.githubusercontent.com/surendra-kumar-07/surendra-kumar-07/main/name-banner.svg" alt="Name Banner" width="100%"/>
+<br/><br/>
+
+**Building • Automating • Deploying • Innovating**
 
 </div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/)
