@@ -14,10 +14,32 @@
 
 **Building • Automating • Deploying • Innovating**
 
-</div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surendrasomisetty18@gmail.com)
-[![Paper](https://img.shields.io/badge/Research-Springer%20Nature-008A45?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-30008-9_35)
+<div align="center">
+
+<h2>🌐 LET'S CONNECT & COLLABORATE</h2>
+
+<a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:surendrasomisetty18@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20Me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/><br/>
+
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-30008-9_35">
+  <img src="https://img.shields.io/badge/Springer_Nature-Explore_My_Research-008A45?style=for-the-badge&logo=springer&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/surendra-kumar-07">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<i>☁️ Let's build something amazing with AWS, DevOps & Automation!</i>
 
 </div>
 
