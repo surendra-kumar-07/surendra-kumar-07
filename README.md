@@ -1,11 +1,21 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/surendra-kumar-07/surendra-kumar-07/main/name-banner.svg" alt="Somisetty Venkata Surendra Kumar - Cloud and DevOps Engineer" width="100%"/>
+<h1>
+  <span style="color:#38BDF8;">✦ SOMISETTY</span>
+  <span style="color:#FFFFFF;"> VENKATA</span>
+  <br/>
+  <span style="color:#38BDF8;">SURENDRA KUMAR</span>
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Automating+software+delivery+end+to+end;Building+observable+cloud+infrastructure+on+AWS;Best+Paper+Award+%7C+ICICC+2026+%28Springer%29" alt="Tagline"/>
+<h3>☁️ AWS Cloud Engineer | ⚙️ DevOps Engineer | 🚀 Automation Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Automating+Software+Delivery+End-to-End;Building+Observable+Cloud+Infrastructure+on+AWS;Best+Paper+Award+%7C+ICICC+2026+%28Springer%29" alt="Tagline"/>
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/surendra-kumar-07/surendra-kumar-07/main/name-banner.svg" alt="Name Banner" width="100%"/>
+
+</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surendrasomisetty18@gmail.com)
 [![Paper](https://img.shields.io/badge/Research-Springer%20Nature-008A45?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-30008-9_35)
