@@ -158,7 +158,6 @@ I enjoy building practical engineering projects, solving infrastructure challeng
 <img src="https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=22D3EE"/>
 <img src="https://img.shields.io/badge/Bash-020617?style=flat-square&logo=gnubash&logoColor=22D3EE"/>
 <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=22D3EE"/>
 <img src="https://img.shields.io/badge/SQL-020617?style=flat-square&logo=mysql&logoColor=22D3EE"/>
 
 </div>
@@ -238,7 +237,7 @@ A monitoring dashboard designed to collect and visualize AWS CloudWatch metrics 
 
 <div align="center">
 
-<a href="https://github.com/surendra-kumar-07">
+<a href="https://github.com/surendra-kumar-07/CloudWatchX-Multi-Region-AWS-Infrastructure-Monitoring-Dashboard">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-075985?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -274,7 +273,7 @@ An automated software delivery pipeline integrating source code management, buil
 
 <div align="center">
 
-<a href="https://github.com/surendra-kumar-07">
+<a href="https://github.com/surendra-kumar-07/web-app">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-075985?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
