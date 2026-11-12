@@ -1,224 +1,247 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=SURENDRA%20KUMAR&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=AWS%20CLOUD%20%7C%20DEVOPS%20%7C%20AUTOMATION%20%7C%20KUBERNETES&descAlignY=65&descSize=15" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:0369a1&height=230&section=header&text=SURENDRA%20KUMAR&fontSize=55&fontColor=38BDF8&fontAlignY=40&desc=AWS%20CLOUD%20ENGINEER%20%7C%20DEVOPS%20ENGINEER&descSize=17&descColor=FFFFFF&descAlignY=62&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=AWS+Cloud+%26+DevOps+Engineer;Building+Scalable+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+Terraform;Continuous+Learning+%7C+Continuous+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Designing+Scalable+Cloud+Infrastructure;Engineering+Automated+CI%2FCD+Pipelines;Building+Cloud-Native+Applications;Docker+%7C+Kubernetes+%7C+Terraform;AWS+Cloud+%7C+DevOps+%7C+Automation" />
 
 <br/>
 
 <a href="https://github.com/surendra-kumar-07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROFILE-GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 <a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=surendra-kumar-07&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
+
+<img src="https://komarev.com/ghpvc/?username=surendra-kumar-07&style=for-the-badge&color=0369a1&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 PROFESSIONAL SUMMARY
+<h2 align="center">◈ ENGINEERING IDENTITY</h2>
 
-```yaml
-Name: Surendra Kumar
-Role: Aspiring AWS Cloud & DevOps Engineer
-Education: B.Tech - Computer Science & Engineering
-Specialization: Cybersecurity, IoT & Blockchain Technology
-Graduation: 2026
+<table>
+<tr>
+<td width="60%">
 
-Core Expertise:
-  - AWS Cloud Infrastructure
-  - CI/CD Automation
-  - Linux Administration
-  - Containerization
-  - Kubernetes
-  - Infrastructure as Code
-  - Cloud Monitoring
+### Building. Automating. Scaling.
 
-Currently Exploring:
-  - Advanced Kubernetes
-  - Terraform Automation
-  - Cloud-Native Architecture
-  - DevOps Best Practices
+I'm **Surendra Kumar**, an aspiring AWS Cloud & DevOps Engineer passionate about building reliable infrastructure, automating deployments, and exploring cloud-native technologies.
 
-Career Objective:
-  Build reliable, scalable, secure and automated cloud infrastructure.
-```
+I focus on combining cloud engineering, infrastructure automation, containerization, and continuous delivery to solve real-world engineering challenges.
 
-I am passionate about designing cloud infrastructure, automating software delivery, and implementing modern DevOps practices. I enjoy solving infrastructure challenges and building practical projects using AWS, Linux, Docker, Kubernetes, and CI/CD technologies.
+**My engineering philosophy:** Automate repetitive work, build reliable systems, and continuously improve.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,jenkins,terraform&perline=3" width="200"/>
+
+**CLOUD • AUTOMATION • INFRASTRUCTURE**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ TECHNICAL ARSENAL
+<h2 align="center">◈ CORE TECHNOLOGY ECOSYSTEM</h2>
 
-### ☁️ Cloud Infrastructure
+### 01 / Cloud Architecture
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=aws" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
 </div>
 
-| Category | Technologies |
+| Domain | Technologies |
 |---|---|
 | Compute | EC2, Lambda |
-| Networking | VPC, Subnets, Route Tables, NAT, Internet Gateway |
+| Networking | VPC, Subnets, NAT, Route Tables |
 | Storage | S3, EBS |
 | Security | IAM, Security Groups |
 | Database | RDS |
-| Load Balancing | ELB, Auto Scaling |
-| DNS & CDN | Route 53, CloudFront |
-| Monitoring | CloudWatch, SNS |
+| Scalability | ELB, Auto Scaling |
+| Networking & Delivery | Route 53, CloudFront |
+| Observability | CloudWatch, SNS |
 
-### ⚙️ DevOps & CI/CD Engineering
+### 02 / DevOps Engineering
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible&perline=5"/>
 </div>
 
-`Jenkins` `GitHub Webhooks` `Maven` `SonarQube` `Nexus` `Docker` `Docker Hub` `Kubernetes` `Terraform` `Ansible`
+`Jenkins` · `Maven` · `SonarQube` · `Nexus` · `Docker` · `Kubernetes` · `Terraform` · `Ansible`
 
-### 🐧 Systems & Automation
+### 03 / Systems & Automation
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,python" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,mysql&perline=6"/>
 </div>
 
-- Linux System Administration
-- Bash Shell Scripting
-- Python Automation
-- Process & Service Management
-- Networking & Troubleshooting
+`Linux Administration` · `Bash` · `Python` · `Git` · `GitHub` · `SQL`
 
-### 📊 Monitoring & Observability
+### 04 / Monitoring & Observability
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=2"/>
 </div>
 
-`Prometheus` `Grafana` `AWS CloudWatch` `CloudWatch Alarms` `SNS Notifications`
-
-### 💻 Programming & Version Control
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
-</div>
-
-`Python` `Java` `SQL` `Git` `GitHub`
+`Prometheus` · `Grafana` · `AWS CloudWatch` · `CloudWatch Alarms` · `SNS`
 
 ---
 
-## 🏗️ ENGINEERING PROJECTS
+<h2 align="center">◈ SELECTED ENGINEERING PROJECTS</h2>
 
-### 01 | CloudWatchX – AWS Monitoring Dashboard
+<table>
+<tr>
+<td width="50%">
 
-**Category:** Cloud Infrastructure & Observability
+### ☁️ CloudWatchX
 
-- Developed a centralized monitoring dashboard.
-- Integrated AWS CloudWatch metrics using Boto3.
-- Built backend services using Python Flask.
-- Containerized the application using Docker.
-- Deployed the application on AWS EC2.
+**AWS Multi-Region Monitoring Dashboard**
 
-**Tech Stack:** AWS | EC2 | CloudWatch | Python | Boto3 | Flask | Docker
+- AWS CloudWatch integration.
+- Python and Boto3 automation.
+- Flask-based dashboard.
+- Docker containerization.
+- EC2 deployment.
 
-### 02 | CI/CD Pipeline Automation
+`AWS` `Python` `Flask` `Docker`
 
-**Category:** Continuous Integration & Continuous Delivery
+</td>
+<td width="50%">
 
-- Automated application build workflows.
-- Integrated GitHub with Jenkins.
-- Used Maven for build management.
-- Integrated SonarQube for code quality analysis.
-- Used Nexus for artifact management.
+### ⚙️ CI/CD Automation
 
-**Tech Stack:** Jenkins | Git | GitHub | Maven | SonarQube | Nexus
+**Automated Software Delivery Pipeline**
 
-### 03 | Kubernetes RBAC & Cluster Administration
+- Jenkins pipeline automation.
+- GitHub Webhook integration.
+- Maven build management.
+- SonarQube quality analysis.
+- Nexus artifact management.
 
-**Category:** Container Orchestration & Security
+`Jenkins` `Maven` `SonarQube` `Nexus`
 
-- Configured Kubernetes Role-Based Access Control.
-- Implemented Roles and RoleBindings.
-- Practiced user authentication using certificates.
-- Managed namespaces and Kubernetes contexts.
-- Worked with Kubernetes workloads and cluster administration.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Tech Stack:** Kubernetes | RBAC | Minikube | OpenSSL | Linux
+### ☸️ Kubernetes RBAC
+
+**Cluster Security & Administration**
+
+- Role-Based Access Control.
+- Roles and RoleBindings.
+- Certificate-based authentication.
+- Namespace management.
+- Cluster administration.
+
+`Kubernetes` `RBAC` `OpenSSL` `Linux`
+
+</td>
+<td width="50%">
+
+### 🚀 Infrastructure Automation
+
+**Cloud Infrastructure as Code**
+
+- Exploring infrastructure provisioning.
+- Terraform fundamentals.
+- AWS infrastructure automation.
+- Reusable configuration practices.
+
+`AWS` `Terraform` `Linux`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GITHUB PERFORMANCE
+<h2 align="center">◈ GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=surendra-kumar-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=surendra-kumar-07&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-kumar-07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-kumar-07&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9"/>
 
-<br/><br/>
+<br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=surendra-kumar-07&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=surendra-kumar-07&theme=transparent&hide_border=true&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8"/>
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION GRAPH
+<h2 align="center">◈ CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 CERTIFICATIONS & ACHIEVEMENTS
+<h2 align="center">◈ CERTIFICATIONS & RECOGNITION</h2>
 
-- 🏆 Best Paper Award – ICICC 2026.
-- 📘 NPTEL – Operating System Fundamentals.
-- 🐍 Python Django Internship – Assistive Infotech.
-- 💻 HackerRank – SQL Basic Certification.
-- 🎓 B.Tech – Computer Science and Engineering.
+- 🏆 Best Paper Award — ICICC 2026.
+- 📘 NPTEL — Operating System Fundamentals.
+- 💻 HackerRank — SQL Basic.
+- 🐍 Python Django Internship — Assistive Infotech.
+- 🎓 B.Tech — Computer Science & Engineering.
 
 ---
 
-## 🎯 CURRENT ENGINEERING ROADMAP
+<h2 align="center">◈ CURRENT ENGINEERING FOCUS</h2>
 
-```text
-AWS Cloud Architecture       ██████████
-Linux Administration         ██████████
-Git & GitHub                 ██████████
-Jenkins CI/CD                ████████░░
-Docker                       ████████░░
-Kubernetes                   ██████░░░░
-Terraform                    ██████░░░░
-Ansible                      █████░░░░░
-Prometheus & Grafana         █████░░░░░
+```yaml
+Cloud:
+  - AWS Architecture
+  - Cloud Networking
+  - IAM & Security
+
+DevOps:
+  - CI/CD Automation
+  - Jenkins Pipelines
+  - Docker
+  - Kubernetes
+
+Infrastructure:
+  - Terraform
+  - Ansible
+  - Linux Automation
+
+Observability:
+  - Prometheus
+  - Grafana
+  - CloudWatch
 ```
 
-*Learning progress is illustrative, not a formal proficiency measurement.*
-
 ---
 
-## 🤝 CONNECT WITH ME
+<h2 align="center">◈ LET'S CONNECT</h2>
 
 <div align="center">
 
 <a href="https://github.com/surendra-kumar-07">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <br/><br/>
 
-### 💡 AUTOMATE EVERYTHING. SCALE ANYTHING. BUILD THE FUTURE.
+**OPEN TO CLOUD & DEVOPS ENGINEERING OPPORTUNITIES**
 
-**Thanks for visiting my GitHub profile!**
+### ENGINEER THE CLOUD. AUTOMATE THE FUTURE.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f172a,100:020617&height=120&section=footer"/>
 
 </div>
