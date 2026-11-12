@@ -1,167 +1,224 @@
 <div align="center">
 
-# 👋 Hi, I'm Surendra Kumar
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=SURENDRA%20KUMAR&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=AWS%20CLOUD%20%7C%20DEVOPS%20%7C%20AUTOMATION%20%7C%20KUBERNETES&descAlignY=65&descSize=15" width="100%"/>
 
-### AWS Cloud Engineer | DevOps Engineer | Cloud & Infrastructure Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=AWS+Cloud+%26+DevOps+Engineer;Building+Scalable+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+Terraform;Continuous+Learning+%7C+Continuous+Innovation" />
 
-🚀 Building scalable cloud infrastructure, automating deployments, and exploring modern DevOps technologies.
+<br/>
 
-<p>
-  <a href="https://github.com/surendra-kumar-07">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<a href="https://github.com/surendra-kumar-07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=surendra-kumar-07&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 PROFESSIONAL SUMMARY
 
-I'm a Computer Science graduate specializing in Cybersecurity, IoT & Blockchain Technology, with a strong interest in AWS Cloud Computing and DevOps Engineering.
+```yaml
+Name: Surendra Kumar
+Role: Aspiring AWS Cloud & DevOps Engineer
+Education: B.Tech - Computer Science & Engineering
+Specialization: Cybersecurity, IoT & Blockchain Technology
+Graduation: 2026
 
-- ☁️ Passionate about AWS Cloud Infrastructure.
-- ⚙️ Learning and implementing CI/CD automation.
-- 🐳 Working with Docker and Kubernetes.
-- 🐧 Comfortable with Linux administration and Bash scripting.
-- 🔧 Exploring Infrastructure as Code using Terraform.
-- 📊 Interested in monitoring, logging, and observability.
-- 🎯 Career Goal: AWS Cloud Engineer / DevOps Engineer.
+Core Expertise:
+  - AWS Cloud Infrastructure
+  - CI/CD Automation
+  - Linux Administration
+  - Containerization
+  - Kubernetes
+  - Infrastructure as Code
+  - Cloud Monitoring
+
+Currently Exploring:
+  - Advanced Kubernetes
+  - Terraform Automation
+  - Cloud-Native Architecture
+  - DevOps Best Practices
+
+Career Objective:
+  Build reliable, scalable, secure and automated cloud infrastructure.
+```
+
+I am passionate about designing cloud infrastructure, automating software delivery, and implementing modern DevOps practices. I enjoy solving infrastructure challenges and building practical projects using AWS, Linux, Docker, Kubernetes, and CI/CD technologies.
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ TECHNICAL ARSENAL
 
-### ☁️ Cloud Computing – AWS
+### ☁️ Cloud Infrastructure
 
-<p>
+<div align="left">
 <img src="https://skillicons.dev/icons?i=aws" />
-</p>
+</div>
 
-`EC2` `S3` `VPC` `IAM` `EBS` `RDS` `Lambda` `ELB` `Auto Scaling` `Route 53` `CloudFront` `CloudWatch` `SNS`
+| Category | Technologies |
+|---|---|
+| Compute | EC2, Lambda |
+| Networking | VPC, Subnets, Route Tables, NAT, Internet Gateway |
+| Storage | S3, EBS |
+| Security | IAM, Security Groups |
+| Database | RDS |
+| Load Balancing | ELB, Auto Scaling |
+| DNS & CDN | Route 53, CloudFront |
+| Monitoring | CloudWatch, SNS |
 
-### ⚙️ DevOps & CI/CD
+### ⚙️ DevOps & CI/CD Engineering
 
-<p>
+<div align="left">
 <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible" />
-</p>
+</div>
 
-`Jenkins` `Maven` `SonarQube` `Nexus` `Docker` `Kubernetes` `Terraform` `Ansible`
+`Jenkins` `GitHub Webhooks` `Maven` `SonarQube` `Nexus` `Docker` `Docker Hub` `Kubernetes` `Terraform` `Ansible`
 
-### 🐧 Operating Systems & Scripting
+### 🐧 Systems & Automation
 
-<p>
+<div align="left">
 <img src="https://skillicons.dev/icons?i=linux,bash,python" />
-</p>
+</div>
 
-`Linux Administration` `Bash Scripting` `Python` `Shell Automation`
-
-### 🔗 Version Control & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,python,java,mysql" />
-</p>
-
-`Git` `GitHub` `Webhooks` `Python` `Java` `SQL`
+- Linux System Administration
+- Bash Shell Scripting
+- Python Automation
+- Process & Service Management
+- Networking & Troubleshooting
 
 ### 📊 Monitoring & Observability
 
+<div align="left">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</div>
+
 `Prometheus` `Grafana` `AWS CloudWatch` `CloudWatch Alarms` `SNS Notifications`
+
+### 💻 Programming & Version Control
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
+</div>
+
+`Python` `Java` `SQL` `Git` `GitHub`
 
 ---
 
-## 🚀 Featured Projects
+## 🏗️ ENGINEERING PROJECTS
 
-### 1. CloudWatchX – AWS Monitoring Dashboard
-- Developed a centralized AWS monitoring dashboard.
-- Integrated AWS CloudWatch metrics using Python and Boto3.
-- Used Flask for backend development.
+### 01 | CloudWatchX – AWS Monitoring Dashboard
+
+**Category:** Cloud Infrastructure & Observability
+
+- Developed a centralized monitoring dashboard.
+- Integrated AWS CloudWatch metrics using Boto3.
+- Built backend services using Python Flask.
 - Containerized the application using Docker.
 - Deployed the application on AWS EC2.
 
-**Technologies:** AWS | Python | Boto3 | Flask | Docker | CloudWatch
+**Tech Stack:** AWS | EC2 | CloudWatch | Python | Boto3 | Flask | Docker
 
-### 2. CI/CD Automation Pipeline
-- Automated application build and deployment.
-- Integrated Jenkins with GitHub.
-- Used Maven for build automation.
+### 02 | CI/CD Pipeline Automation
+
+**Category:** Continuous Integration & Continuous Delivery
+
+- Automated application build workflows.
+- Integrated GitHub with Jenkins.
+- Used Maven for build management.
 - Integrated SonarQube for code quality analysis.
 - Used Nexus for artifact management.
 
-**Technologies:** Jenkins | GitHub | Maven | SonarQube | Nexus
+**Tech Stack:** Jenkins | Git | GitHub | Maven | SonarQube | Nexus
 
-### 3. Kubernetes RBAC & Cluster Administration
-- Implemented Role-Based Access Control.
-- Configured Kubernetes users and authentication.
-- Created Roles and RoleBindings.
-- Practiced namespace and context management.
-- Managed Kubernetes workloads.
+### 03 | Kubernetes RBAC & Cluster Administration
 
-**Technologies:** Kubernetes | Linux | Minikube | OpenSSL | RBAC
+**Category:** Container Orchestration & Security
+
+- Configured Kubernetes Role-Based Access Control.
+- Implemented Roles and RoleBindings.
+- Practiced user authentication using certificates.
+- Managed namespaces and Kubernetes contexts.
+- Worked with Kubernetes workloads and cluster administration.
+
+**Tech Stack:** Kubernetes | RBAC | Minikube | OpenSSL | Linux
 
 ---
 
-## 📜 Certifications & Achievements
+## 📊 GITHUB PERFORMANCE
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=surendra-kumar-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-kumar-07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=surendra-kumar-07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🏆 CERTIFICATIONS & ACHIEVEMENTS
 
 - 🏆 Best Paper Award – ICICC 2026.
 - 📘 NPTEL – Operating System Fundamentals.
 - 🐍 Python Django Internship – Assistive Infotech.
 - 💻 HackerRank – SQL Basic Certification.
-- 🎓 B.Tech – Computer Science and Engineering (Cybersecurity).
+- 🎓 B.Tech – Computer Science and Engineering.
 
 ---
 
-## 📈 GitHub Statistics
+## 🎯 CURRENT ENGINEERING ROADMAP
+
+```text
+AWS Cloud Architecture       ██████████
+Linux Administration         ██████████
+Git & GitHub                 ██████████
+Jenkins CI/CD                ████████░░
+Docker                       ████████░░
+Kubernetes                   ██████░░░░
+Terraform                    ██████░░░░
+Ansible                      █████░░░░░
+Prometheus & Grafana         █████░░░░░
+```
+
+*Learning progress is illustrative, not a formal proficiency measurement.*
+
+---
+
+## 🤝 CONNECT WITH ME
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surendra-kumar-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<a href="https://github.com/surendra-kumar-07">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-kumar-07&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=surendra-kumar-07&theme=tokyonight&hide_border=true" />
+### 💡 AUTOMATE EVERYTHING. SCALE ANYTHING. BUILD THE FUTURE.
 
-</div>
+**Thanks for visiting my GitHub profile!**
 
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 🎯 Currently Focusing On
-
-- Advanced AWS Architecture.
-- Kubernetes Administration.
-- Real-world DevOps Projects.
-- CI/CD Pipeline Automation.
-- Terraform Infrastructure Automation.
-- Cloud Monitoring and Observability.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, cloud engineers, DevOps professionals, and recruiters.
-
-<div align="center">
-
-<a href="https://github.com/surendra-kumar-07">GitHub</a> •
-<a href="https://www.linkedin.com/in/somisetty-venkata-surendra-kumar-48b086320/">LinkedIn</a>
-
-### 💡 Learn | Build | Automate | Deploy | Innovate
-
-**Thanks for visiting my GitHub profile! ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=100&section=footer" width="100%"/>
 
 </div>
