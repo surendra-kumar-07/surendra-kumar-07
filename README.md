@@ -151,7 +151,7 @@ I enjoy building practical engineering projects, solving infrastructure challeng
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,java,mysql"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,mysql"/>
 
 <br/><br/>
 
