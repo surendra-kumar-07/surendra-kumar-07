@@ -2,7 +2,7 @@
 
 <!-- ================= PREMIUM HEADER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0B1120,65:075985,100:06B6D4&height=270&section=header&text=SOMISETTY%20VENKATA%20SURENDRA%20KUMAR&fontSize=36&fontColor=F8FAFC&fontAlignY=38&desc=AWS%20CLOUD%20%7C%20DEVOPS%20%7C%20CLOUD%20AUTOMATION&descSize=17&descColor=22D3EE&descAlignY=58&animation=fadeIn"/>
+<img width="50%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0B1120,65:075985,100:06B6D4&height=270&section=header&text=SOMISETTY%20VENKATA%20SURENDRA%20KUMAR&fontSize=36&fontColor=F8FAFC&fontAlignY=38&desc=AWS%20CLOUD%20%7C%20DEVOPS%20%7C%20CLOUD%20AUTOMATION&descSize=17&descColor=22D3EE&descAlignY=58&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=850&lines=Welcome+to+My+Engineering+World;AWS+Cloud+%26+DevOps+Engineer;Automating+Infrastructure+%26+Deployments;Docker+%7C+Kubernetes+%7C+Terraform;Building+Reliable+Cloud+Solutions"/>
 
