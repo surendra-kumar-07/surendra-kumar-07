@@ -28,7 +28,7 @@ focus:       Cloud infrastructure, CI/CD, containers, Infrastructure as Code
 mindset:     Build. Automate. Deploy.
 ```
 
-I'm a Computer Science student focused on cloud and DevOps engineering. I learn by building: every project here is a hands-on attempt to solve a real infrastructure problem, from automating deployments to securing cluster access and provisioning cloud resources as code.
+I'm a Computer Science graduate focused on cloud and DevOps engineering. I learn by building: every project here is a hands-on attempt to solve a real infrastructure problem, from automating deployments to securing cluster access and provisioning cloud resources as code.
 
 **What I'm aiming for:** AWS Cloud Engineer · DevOps Engineer
 
@@ -110,29 +110,31 @@ flowchart LR
 
 ---
 
-### 02 · ⚙️ CI/CD Automation: Jenkins Pipeline
+### 02 · ⚙️ Automated Build-to-Release Solution for a Java Web Application
 
-> An automated delivery pipeline covering source control, build, code quality analysis, and artifact management.
+> An end-to-end Jenkins pipeline that automates source integration, Maven builds, code quality checks, artifact storage, and WAR deployment to Apache Tomcat.
 
 ```mermaid
 flowchart LR
     A[Developer Push] --> B[GitHub]
     B -->|Webhook| C[Jenkins]
     C --> D[Maven Build]
-    D --> E[SonarQube Analysis]
-    E --> F[Nexus Artifact Repo]
+    D --> E[SonarQube Quality Gate]
+    E --> F[Nexus Artifact Storage]
+    F --> G[WAR Deployment]
+    G --> H[Apache Tomcat]
 ```
 
-- Pipeline triggered automatically through GitHub Webhooks
-- Maven-driven build and test stage
-- SonarQube static analysis for code quality
-- Versioned artifacts published to Nexus
+- Automated the release workflow from source code integration through build, quality analysis, artifact storage, and deployment.
+- Integrated SonarQube quality gates and Nexus artifact storage to improve code quality and release traceability.
+- Automated WAR deployment to Apache Tomcat using Jenkins pipelines for repeatable releases.
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 
 [**→ View Repository**](https://github.com/surendra-kumar-07/web-app)
 
@@ -186,6 +188,57 @@ flowchart LR
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 [**→ View Repository**](https://github.com/surendra-kumar-07)
+
+### 05 · ☸️ Scalable Microservices Platform with Autoscaling and Monitoring
+
+> A Kubernetes-based multi-service platform with traffic routing, autoscaling, rollout controls, and observability.
+
+```mermaid
+flowchart LR
+    U[Users] --> I[Ingress]
+    I --> S[Kubernetes Services]
+    S --> D[Deployments / Pods]
+    D --> H[HPA Autoscaling]
+    D --> P[Prometheus]
+    P --> G[Grafana Dashboards]
+```
+
+- Deployed multi-service applications on Kubernetes using Deployments, Services, Ingress, and health probes.
+- Configured Horizontal Pod Autoscaling (HPA), rolling updates, and rollback strategies to support application availability.
+- Created Prometheus and Grafana dashboards to monitor application performance and resource usage.
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+[**→ Explore GitHub Repositories**](https://github.com/surendra-kumar-07?tab=repositories)
+
+---
+
+### 06 · 🐳 Containerized Multi-Service Business Application
+
+> A multi-container application setup using Docker Compose, with Nginx as a reverse proxy and PostgreSQL for data storage.
+
+```mermaid
+flowchart LR
+    U[Client] --> N[Nginx Reverse Proxy]
+    N --> A[Application Container]
+    A --> DB[(PostgreSQL)]
+    A --> V[Persistent Volume]
+```
+
+- Containerized an application with Nginx reverse proxy and PostgreSQL using Docker Compose.
+- Implemented multi-stage builds, non-root containers, health checks, and persistent volumes.
+- Published versioned Docker images to Docker Hub for deployment and rollback.
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[**→ Explore GitHub Repositories**](https://github.com/surendra-kumar-07?tab=repositories)
 
 ---
 
