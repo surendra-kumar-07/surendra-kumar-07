@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:075985,100:06B6D4&height=180&section=header&text=Somisetty%Venkata%Surendra%20Kumar&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=AWS%20Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20Infrastructure%20Automation&descSize=16&descColor=22D3EE&descAlignY=58&animation=fadeIn" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:075985,100:06B6D4&height=180&section=header&text=Somisetty%20Venkata%20Surendra%20Kumar&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=AWS%20Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20Infrastructure%20Automation&descSize=16&descColor=22D3EE&descAlignY=58&animation=fadeIn" alt="Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+cloud+infrastructure+that+scales;Automating+delivery+with+CI%2FCD+pipelines;Containers+%7C+Kubernetes+%7C+Terraform+%7C+AWS" alt="Typing animation"/>
 
